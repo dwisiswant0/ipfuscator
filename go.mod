@@ -1,5 +1,5 @@
 module github.com/dwisiswant0/ipfuscator
 
-go 1.16
+go 1.22.0
 
-require github.com/gobwas/glob v0.2.3
+require github.com/gobwas/glob v1.0.0
